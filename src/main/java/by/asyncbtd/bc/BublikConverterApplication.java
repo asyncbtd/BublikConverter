@@ -9,5 +9,4 @@ public class BublikConverterApplication {
     public static void main(String[] args) {
         SpringApplication.run(BublikConverterApplication.class, args);
     }
-
 }
